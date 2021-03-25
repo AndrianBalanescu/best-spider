@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Instantly Boost Your Productivity
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: Change your Life and Become a DevOps Engineer
     content: >
       **Looking for a professional career?**
 

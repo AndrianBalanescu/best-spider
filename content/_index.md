@@ -5,12 +5,6 @@ sections:
     title: Instantly Boost Your Productivity
     subtitle: Change your Life and Become a DevOps Engineer
     content: >
-      **Looking for a professional career?**
-
-
-      ##
-
-
       The DevOps Training Program will provide you with in-depth knowledge of
       various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
       Docker, Ansible, Puppet, Kubernetes and Nagios. This training is

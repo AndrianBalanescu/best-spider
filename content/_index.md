@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Looking for a professional career?
     subtitle: Change your Life and Become a DevOps Engineer
     content: >
       The DevOps Training Program will provide you with in-depth knowledge of

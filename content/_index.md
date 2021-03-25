@@ -13,7 +13,7 @@ sections:
       Testing, Configuration Management and Continuous Integration, and finally,
       Continuous Monitoring of software throughout its development life cycle.
     actions:
-      - label: Google Play
+      - label: Learn more
         url: /pricing
         style: secondary
     image: images/community1.png

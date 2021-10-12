@@ -125,7 +125,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/b4.9a93cc3235.jpg
+        image: images/study-2280013-1902258-3a85ce39.png
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty

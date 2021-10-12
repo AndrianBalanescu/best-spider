@@ -56,6 +56,7 @@ params:
     social_links: []
     content: Kloudvibe
     links: []
+    logo: images/logo1-h-k7f8ixth-1.png
 taxonomies:
   stub: stub
 disableKinds:

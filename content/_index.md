@@ -93,7 +93,7 @@ sections:
         image_position: top
         image_width: fourty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         image: images/icon-3.svg
     grid_cols: three
     grid_gap_horiz: medium

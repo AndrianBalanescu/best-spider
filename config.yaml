@@ -29,7 +29,7 @@ params:
       - label: HOME
         url: /pricing
         style: primary
-      - label: Contact us
+      - label: NEWS
         url: /pricing
         style: secondary
     has_anncmnt: true

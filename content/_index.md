@@ -71,7 +71,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: Smart Notifications
+      - title: Study Program
         title_align: left
         content: >
           The training program is developed based on real requests and demand

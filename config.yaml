@@ -83,7 +83,7 @@ params:
         icon_position: center
         new_window: true
       - label: GitHub
-        url: 'https://github.com/Kloudvibe'
+        url: 'https://github.com/AndrianBalanescu/Kloudvibe'
         style: link
         has_icon: true
         icon: github

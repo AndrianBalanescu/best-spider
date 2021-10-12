@@ -12,10 +12,7 @@ sections:
       practitioner through best practices in Continuous Development, Continuous
       Testing, Configuration Management and Continuous Integration, and finally,
       Continuous Monitoring of software throughout its development life cycle.
-    actions:
-      - label: Learn more
-        url: /pricing
-        style: secondary
+    actions: []
     image: images/community1.png
     image_alt: Hero section placeholder image
     media_position: left

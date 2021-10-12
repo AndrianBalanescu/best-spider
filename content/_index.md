@@ -94,7 +94,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/avatar-49a08d36.png
+        image: images/study-2280013-1902258.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small

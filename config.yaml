@@ -53,7 +53,15 @@ params:
     tertiary_nav_title: lorem-ipsum
     tertiary_nav_links: []
     has_social: true
-    social_links: []
+    social_links:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     content: Kloudvibe
     links: []
     logo: images/logo1-h-k7f8ixth-1.png

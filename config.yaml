@@ -41,7 +41,7 @@ params:
     anncmnt_has_close: true
     anncmnt_id: new-features
   footer:
-    logo: images/logo.svg
+    logo: images/logo1-h-k7f8ixth-1.png
     logo_alt: App logo
     has_primary_nav: true
     primary_nav_title: Company

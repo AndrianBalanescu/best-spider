@@ -29,7 +29,7 @@ sections:
     subtitle: In a Glance
     align: center
     grid_items:
-      - title: 'Best '
+      - title: 'Best instructors                                             '
         title_align: left
         content: |2
             Experienced instructors from the largest IT 

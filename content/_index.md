@@ -92,7 +92,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: right
         image_width: fourty
-        image_align: left
+        image_align: center
         image_has_padding: true
         image: images/icon-3.svg
     grid_cols: three

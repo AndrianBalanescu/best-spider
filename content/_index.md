@@ -88,9 +88,20 @@ sections:
     features:
       - title: Syncronized Calendar
         subtitle: For true work-life balance
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: |
+          >
+          >     
+          >     
+          >         
+          >             
+          >                 
+          >             
+          >         
+          >     
+
+          >
+          >                 
+          >                 
         actions:
           - label: Learn More
             url: /pricing

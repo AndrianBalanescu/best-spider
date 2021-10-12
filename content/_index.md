@@ -26,7 +26,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: ' Why people love us?  We help our students realize their most important goal - getting a well-paid job. This our common goal, and we are not the type of school that just goes through the curriculum and lets you figure out how to get a job.'
-    subtitle: ' Why people love us?  We help our students realize their most important goal - getting a well-paid job. This our common goal, and we are not the type of school that just goes through the curriculum and lets you figure out how to get a job.'
+    subtitle: ' We help our students realize their most important goal - getting a well-paid job. This our common goal, and we are not the type of school that just goes through the curriculum and lets you figure out how to get a job.'
     align: center
     grid_items:
       - title: 'Best instructors              '

@@ -50,7 +50,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: On Any Device
+      - title: Learning Environment
         title_align: left
         content: >
           Kloudvibe offers you a comfortable and functional learning

@@ -58,11 +58,7 @@
 			<div class="grid items-center">
 				{{ if $footer_content }}
 				<div class="site-footer__copyright cell-12{{ if $footer_social }} cell-sm{{ end }}">
-                    {{ if $has_logo }}
-				<a class="site-footer__logo cell-12 cell-md-5 my-4" href="{{ "/" | relURL }}">
-					<img src="{{ $.Site.Params.footer.logo | relURL }}" alt="{{ $.Site.Params.header.logo_alt }}" />
-				</a>
-				{{ end }}
+                    
                     {{ if $.Site.Params.footer.content }}
 						<span>{{ $.Site.Params.footer.content | safeHTML }}</span>
 					{{ end }}

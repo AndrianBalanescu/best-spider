@@ -150,27 +150,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
-  - type: blog_feed_section
-    title: Upcoming News
-    subtitle: What's Up?
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 2
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: false
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []

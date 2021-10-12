@@ -71,7 +71,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: lorem-ipsum
+      - title: Study Program
         subtitle: lorem-ipsum
         title_align: left
         content: >

@@ -31,9 +31,11 @@ sections:
     grid_items:
       - title: Right When You Need It
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: |2
+            Experienced instructors from the largest IT 
+          companies in America are working with us. Our school provides full 
+          mentorship for you throughout the whole course, until you get a job.
+                              
         content_align: left
         actions:
           - label: Learn More

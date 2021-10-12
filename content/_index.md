@@ -88,20 +88,7 @@ sections:
     features:
       - title: Syncronized Calendar
         subtitle: For true work-life balance
-        content: |
-          >
-          >     
-          >     
-          >         
-          >             
-          >                 
-          >             
-          >         
-          >     
-
-          >
-          >                 
-          >                 
+        content: "KloudVibe emerged as a company that seeks out to connect our well-trained \nstudents with IT companies across the United States. Our commitment is \nto work with each one of our students, to help them to get a high paid \njob, or advance their careers.\n\nWe are a team of IT professionals \nwho believe in continuous learning and growing. At KloudVibe, we believe\n that anyone can learn technology, if you have the right mentor. We \nwalked the same paths as our students, thus, we are qualified to guide \nthem through this rewarding journey.\_\n"
         actions:
           - label: Learn More
             url: /pricing

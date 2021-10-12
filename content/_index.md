@@ -52,9 +52,11 @@ sections:
         image_position: top
       - title: On Any Device
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          Kloudvibe offers you a comfortable and functional learning
+          environment.
+
+          Our classrooms have a cozy kitchen and a relaxation area.
         content_align: left
         actions:
           - label: Learn More

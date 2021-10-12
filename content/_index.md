@@ -125,7 +125,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/post-2.jpg
+        image: images/b4.9a93cc3235.jpg
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty

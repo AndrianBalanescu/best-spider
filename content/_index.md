@@ -100,7 +100,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Comprehensive Task List
-        subtitle: Always be in control
+        subtitle: >-
+          It is not defined as a product or framework but instead concentrates
+          on  key principles to form a productive culture:
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in

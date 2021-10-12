@@ -71,35 +71,6 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: Study Program
-        title_align: left
-        content: >
-          The training program is developed based on real requests and demand
-          from employers/companies.
-
-          Throughout the course, students work on real projects.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        image: images/icon-3.svg
-        image_alt: Icon 3
-        image_align: left
-        image_has_padding: true
-        image_position: top
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small

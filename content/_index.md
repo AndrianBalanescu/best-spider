@@ -94,7 +94,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/747086.png
+        image: images/community1.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small

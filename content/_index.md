@@ -80,15 +80,7 @@ sections:
 
           Throughout the course, students work on real projects.
         content_align: left
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum

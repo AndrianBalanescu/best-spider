@@ -72,7 +72,7 @@ sections:
         image_has_padding: true
         image_position: top
       - title: Study Program
-        subtitle: lorem-ipsum
+        subtitle: ' '
         title_align: left
         content: >
           The training program is developed based on real requests and demand

@@ -99,7 +99,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
-      - title: DevOps is unique in its approach.
+      - title: DevOps is unique in its approach
         subtitle: >-
           It is not defined as a product or framework but instead concentrates
           on  key principles to form a productive culture:

@@ -91,7 +91,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
-        image_width: sixty
+        image_width: fourty
         image_align: left
         image_has_padding: false
         image: images/icon-3.svg

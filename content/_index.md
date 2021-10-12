@@ -103,10 +103,21 @@ sections:
         subtitle: >-
           It is not defined as a product or framework but instead concentrates
           on  key principles to form a productive culture:
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: >
+          All activities and objectives must be customer oriented
+
+          Complete 
+
+          autonomy and ownership of all participating team members. Emphasis on 
+
+          communication between the teams, being conscious of other’s roles and 
+
+          responsibilities
+
+          Cross-collaboration between the teams
+
+          Final product must always remain the core focus at each stage,
+          ensuring the highest quality end product
         actions:
           - label: Take a look
             url: /pricing

@@ -151,7 +151,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
   - type: blog_feed_section
-    title: Productivity Blog
+    title: Upcoming News
     subtitle: What's Up?
     actions:
       - label: View All

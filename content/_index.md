@@ -177,7 +177,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
-        image: images/1-h-k7hvrtfn.png
+        image: images/b4-3a4a9112.jpg
     feature_padding_vert: small
     background_color: secondary
 seo:

@@ -54,7 +54,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/footer-mountain-24881e50.svg
+        image: images/5-h-k7gvj49e-ea5b9e13.png
       - title: Kubernetes
         subtitle: For your entire team
         title_align: center

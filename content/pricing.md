@@ -55,7 +55,7 @@ sections:
         actions_width: full-width
       - title: Kubernetes
         subtitle: For your entire team
-        title_align: left
+        title_align: center
         content: |-
           ---
 

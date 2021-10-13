@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Upcoming courses
 sections:
   - type: hero_section
     title: Pricing

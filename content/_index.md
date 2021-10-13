@@ -164,7 +164,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    background_image: images/community1-ecf35dc6.png
+    background_image: images/b4.jpg
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme

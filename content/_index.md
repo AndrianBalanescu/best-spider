@@ -173,7 +173,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: ' '
         media_position: right
-        media_width: fifty
+        media_width: fourty
         align: left
         image: images/b4-3a4a9112.jpg
     feature_padding_vert: small

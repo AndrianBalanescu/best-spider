@@ -75,7 +75,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/1-h-k7hvrtfn-0b0422e7.png
+        image: images/2-h-k7foracf-99dad4bb.png
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small

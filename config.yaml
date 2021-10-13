@@ -29,7 +29,7 @@ params:
       - label: HOME
         url: /pricing
         style: primary
-      - label: NEWS
+      - label: New Courses
         url: /pricing
         style: secondary
       - label: Contact

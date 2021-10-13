@@ -33,7 +33,7 @@ params:
         url: /pricing
         style: secondary
       - label: About us
-        url: '#'
+        url: /about
         style: link
         has_icon: false
         icon: arrow-left

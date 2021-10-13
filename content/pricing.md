@@ -3,7 +3,7 @@ title: Upcoming courses
 sections:
   - type: hero_section
     title: Upcoming Courses
-    subtitle: 'App Land offers affordable plans for private, family and business use.'
+    subtitle: Sign up now
     align: center
     padding_top: large
     padding_bottom: small

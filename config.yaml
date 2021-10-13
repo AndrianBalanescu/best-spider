@@ -32,7 +32,7 @@ params:
       - label: NEWS
         url: /pricing
         style: secondary
-      - label: lorem-ipsum
+      - label: About us
         url: '#'
         style: link
         has_icon: false

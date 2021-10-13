@@ -32,7 +32,7 @@ params:
       - label: NEWS
         url: /pricing
         style: secondary
-      - label: About
+      - label: About us
         url: /about
         style: primary
         has_icon: false

@@ -72,6 +72,7 @@ params:
         no_follow: false
     content: lorem-ipsum
     links: []
+    logo: images/logo1-h-k7f8ixth-1.png
 taxonomies:
   stub: stub
 disableKinds:

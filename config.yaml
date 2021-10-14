@@ -27,7 +27,7 @@ params:
     has_secondary_nav: true
     secondary_nav_links:
       - label: Home
-        url: /pricing
+        url: /
         style: primary
       - label: Upcoming courses
         url: /pricing

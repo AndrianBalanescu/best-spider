@@ -148,6 +148,7 @@ sections:
           DevOps Engineering, Data Analytics, Data Science, Machine Learning,
           Deep Learning, Full Stack Development, Front End Development, and Back
           End Development.
+        title: asd
       - title: “A very useful project management app. I use it every day.”
         subtitle: >-
           If students do not find employment after bootcamp graduation, the

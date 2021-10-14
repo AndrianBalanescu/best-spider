@@ -65,7 +65,7 @@ params:
     has_secondary_nav: true
     secondary_nav_title: Upcoming Courses
     secondary_nav_links:
-      - label: 'Check '
+      - label: See Our Courses
         url: '#'
         style: link
         has_icon: false

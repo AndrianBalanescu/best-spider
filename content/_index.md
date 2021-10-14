@@ -135,10 +135,8 @@ sections:
   - type: features_section
     features:
       - subtitle: >-
-          Simply the best IT training school specializing in Cloud Engineering,
-          DevOps Engineering, Data Analytics, Data Science, Machine Learning,
-          Deep Learning, Full Stack Development, Front End Development, and Back
-          End Development.
+          They are committed to helping individuals attain practical knowledge
+          through affordable and effective IT training programs.
         image: images/avatar.png
         image_alt: Person 1 photo
         media_position: right

@@ -83,7 +83,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: For true work-life balance
+      - title: Great learning experience
         subtitle: >-
           Our experience and expertise in emerging technologies make the big
           ocean of IT feel like a breeze.

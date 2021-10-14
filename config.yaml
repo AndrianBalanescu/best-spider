@@ -51,7 +51,7 @@ params:
   domain: 'https://best-spider-bdcb6.netlify.app'
   footer:
     logo_alt: lorem-ipsum
-    has_primary_nav: false
+    has_primary_nav: true
     primary_nav_title: lorem-ipsum
     primary_nav_links:
       - label: lorem-ipsum

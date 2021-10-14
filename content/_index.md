@@ -146,6 +146,11 @@ sections:
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
+        content: >
+          Simply the best IT training school specializing in Cloud Engineering,
+          DevOps Engineering, Data Analytics, Data Science, Machine Learning,
+          Deep Learning, Full Stack Development, Front End Development, and Back
+          End Development.
       - title: “A very useful project management app. I use it every day.”
         subtitle: >-
           If students do not find employment after bootcamp graduation, the

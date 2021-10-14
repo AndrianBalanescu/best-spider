@@ -123,15 +123,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
+    actions: []
 seo:
   title: Pricing
   description: This is the pricing page

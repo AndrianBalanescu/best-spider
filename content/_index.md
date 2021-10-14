@@ -148,34 +148,6 @@ sections:
         image_alt: Person 2 photo
         media_position: left
         media_width: thirty-three
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-            no_follow: false
-        image_alt: lorem-ipsum
-        video_embed_html: ' '
-        media_position: right
-        media_width: thirty-three
-        align: left
-        image: images/person-1.png
     feature_padding_vert: small
     background_color: secondary
 seo:

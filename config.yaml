@@ -74,7 +74,7 @@ params:
         new_window: false
         no_follow: false
     has_tertiary_nav: true
-    tertiary_nav_title: lorem-ipsum
+    tertiary_nav_title: ' '
     tertiary_nav_links: []
     has_social: true
     social_links:

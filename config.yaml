@@ -55,7 +55,7 @@ params:
     primary_nav_title: Menu
     primary_nav_links:
       - label: Home
-        url: '#'
+        url: /
         style: link
         has_icon: false
         icon: arrow-left

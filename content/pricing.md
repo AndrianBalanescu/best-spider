@@ -35,18 +35,18 @@ sections:
       - title: AWS
         subtitle: For you and your family members
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### Starts 5 January
 
           per month, billed yearly
 
-          * Shared calendar integrations
-          * Unlimited task lists
-          * Synchronized reminders
-          * Shared badgets
-          * Up to 5 devices
+          *   Shared calendar integrations
+          *   Unlimited task lists
+          *   Synchronized reminders
+          *   Shared badgets
+          *   Up to 5 devices
         content_align: left
         actions:
           - label: Start with Family

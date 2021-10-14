@@ -174,7 +174,7 @@ sections:
           and how to answer interview questions.
     feature_padding_vert: small
     background_color: secondary
-    title: Go go
+    title: What people say
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme

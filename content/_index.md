@@ -174,7 +174,7 @@ sections:
         video_embed_html: ' '
         media_position: right
         media_width: fourty
-        align: left
+        align: center
         image: images/person-1.png
     feature_padding_vert: small
     background_color: secondary

@@ -173,7 +173,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: ' '
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         align: left
         image: images/person-1.png
     feature_padding_vert: small

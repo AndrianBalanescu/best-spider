@@ -155,7 +155,7 @@ sections:
     background_color: secondary
     title: What people say
 seo:
-  title: Stackbit App Theme
+  title: 'KloudVibe DevOps Bootcamp in  Park Ridge , Chicago Illinois Area '
   description: The preview of the App theme
   extra:
     - name: 'og:type'

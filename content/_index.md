@@ -162,7 +162,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit App Theme
+      value: 'KloudVibe DevOps Bootcamp in  Park Ridge , Chicago Illinois Area '
       keyName: property
     - name: 'og:description'
       value: The preview of the App theme

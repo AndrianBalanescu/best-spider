@@ -146,7 +146,7 @@ sections:
           DevOps Engineering, Data Analytics, Data Science, Machine Learning,
           Deep Learning, Full Stack Development, Front End Development, and Back
           End Development.
-      - title: “A very useful project management app. I use it every day.”
+      - title: “Dev Ops everyday”
         subtitle: >-
           Students receive 1:1 support and mentoring, including after bootcamp
           completion. Students also receive career services to prepare for job

@@ -137,7 +137,12 @@ sections:
       - title: >-
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
-        subtitle: 'Alyvia Cope, Design at Company'
+        subtitle: >-
+          IT training school specializing in Cloud Engineering, DevOps
+          Engineering, Data Analytics, Data Science, Machine Learning, Deep
+          Learning, Full Stack Development, Front End Development, and Back End
+          Development. We are committed to helping individuals attain practical
+          knowledge through affordable and effective IT training programs.
         image: images/avatar.png
         image_alt: Person 1 photo
         media_position: right

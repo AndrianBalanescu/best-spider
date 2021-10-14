@@ -102,7 +102,7 @@ params:
         icon_position: right
         new_window: false
         no_follow: false
-    content: lorem-ipsum
+    content: All rights reserved
     links: []
     logo: images/logo1-h-k7f8ixth-1.png
 taxonomies:

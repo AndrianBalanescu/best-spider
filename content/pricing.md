@@ -12,18 +12,18 @@ sections:
       - title: Docker
         subtitle: Just for you
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### Starts 25 October
 
-          per month, billed yearly
+          per month, or payment plan
 
-          * Up to 3 calendar integrations
-          * Up to 2 task lists
-          * Color coded notifications
-          * Up to 2 devices
-          * Productivity reporting
+          *   Up to 3 calendar integrations
+          *   Up to 2 task lists
+          *   Color coded notifications
+          *   Up to 2 devices
+          *   Productivity reporting
         content_align: left
         actions:
           - label: Start with Personal

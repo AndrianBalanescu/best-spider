@@ -118,13 +118,7 @@ sections:
 
           Final product must always remain the core focus at each stage,
           ensuring the highest quality end product
-        actions:
-          - label: Take a look
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/b4.9a93cc3235-5ce444fa.jpg
         image_alt: Feature 2 placeholder image
         media_position: right

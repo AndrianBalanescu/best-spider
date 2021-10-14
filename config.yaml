@@ -103,7 +103,15 @@ params:
         new_window: false
         no_follow: false
     content: All rights reserved
-    links: []
+    links:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     logo: images/logo1-h-k7f8ixth-1.png
 taxonomies:
   stub: stub

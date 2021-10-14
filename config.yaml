@@ -62,7 +62,7 @@ params:
     tertiary_nav_links: []
     has_social: true
     social_links:
-      - label: lorem-ipsum
+      - label: Facebook
         url: '#'
         style: link
         has_icon: false

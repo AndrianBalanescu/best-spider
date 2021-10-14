@@ -56,7 +56,7 @@ params:
     primary_nav_links:
       - label: Home
         url: /
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right

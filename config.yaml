@@ -66,7 +66,7 @@ params:
     secondary_nav_title: Upcoming Courses
     secondary_nav_links:
       - label: See Our Courses
-        url: '#'
+        url: /courses
         style: link
         has_icon: false
         icon: arrow-left

@@ -156,7 +156,7 @@ sections:
     title: What people say
 seo:
   title: 'KloudVibe DevOps Bootcamp in  Park Ridge , Chicago Illinois Area '
-  description: The preview of the App theme
+  description: 'KloudVibe DevOps Bootcamp in  Park Ridge , Chicago Illinois Area '
   extra:
     - name: 'og:type'
       value: website

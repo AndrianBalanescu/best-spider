@@ -174,7 +174,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit App Theme
+      value: 'KloudVibe DevOps Bootcamp in  Park Ridge , Chicago Illinois Area '
     - name: 'twitter:description'
       value: 'KloudVibe DevOps Bootcamp in  Park Ridge , Chicago Illinois Area '
     - name: 'twitter:image'

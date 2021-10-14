@@ -171,6 +171,9 @@ sections:
           and how to answer interview questions.
     feature_padding_vert: small
     background_color: secondary
+    title: >-
+      They are committed to helping individuals attain practical knowledge
+      through affordable and effective IT training programs.
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme

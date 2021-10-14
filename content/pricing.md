@@ -40,7 +40,7 @@ sections:
 
           ### Starts 5 January
 
-          per month, billed yearly
+          per month, or payment plan
 
           *   Shared calendar integrations
           *   Unlimited task lists

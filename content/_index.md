@@ -165,7 +165,7 @@ seo:
       value: 'KloudVibe DevOps Bootcamp in  Park Ridge , Chicago Illinois Area '
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: 'KloudVibe DevOps Bootcamp in  Park Ridge , Chicago Illinois Area '
       keyName: property
     - name: 'og:image'
       value: images/5-h-k7gvj49e.png

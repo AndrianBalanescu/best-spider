@@ -147,7 +147,14 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: “A very useful project management app. I use it every day.”
-        subtitle: 'Travis Guidelines, Manager at Company'
+        subtitle: >-
+          If students do not find employment after bootcamp graduation, the
+          tuition fee is waived. Careerist students receive 1:1 support and
+          mentoring, including after bootcamp completion. Students also receive
+          career services to prepare for job interviews. Career services may
+          include resume preparation, LinkedIn profile creation, job market
+          skills and hacks, analysis of the job market in the student’s area,
+          and how to answer interview questions.
         image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left

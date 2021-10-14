@@ -135,9 +135,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”They are committed to helping individuals attain practical
-          knowledge through affordable and effective IT training programs.
+          They are committed to helping individuals attain practical knowledge
+          through affordable and effective IT training programs.
         subtitle: >-
           Simply the best IT training school specializing in Cloud Engineering,
           DevOps Engineering, Data Analytics, Data Science, Machine Learning,

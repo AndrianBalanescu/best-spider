@@ -87,7 +87,7 @@ params:
     has_social: true
     social_links:
       - label: Facebook
-        url: '#'
+        url: 'https://www.facebook.com/klouduser'
         style: link
         has_icon: false
         icon: arrow-left

@@ -175,7 +175,7 @@ sections:
         media_position: right
         media_width: fourty
         align: left
-        image: images/footer-mountain.svg
+        image: images/person-1.png
     feature_padding_vert: small
     background_color: secondary
 seo:

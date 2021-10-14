@@ -63,7 +63,7 @@ sections:
 
           ### Starts 25 February
 
-          per month, billed yearly
+          per month, or payment plan
 
           *   Unlimited calendars
           *   Unlimited task list integrations

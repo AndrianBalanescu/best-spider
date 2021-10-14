@@ -31,7 +31,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        image: images/Docker-logo.jpg
+        image: images/download.png
       - title: AWS
         subtitle: For you and your family members
         title_align: left

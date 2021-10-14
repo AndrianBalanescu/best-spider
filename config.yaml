@@ -74,7 +74,7 @@ params:
         new_window: false
         no_follow: false
     has_tertiary_nav: true
-    tertiary_nav_title: Contact Us
+    tertiary_nav_title: ' '
     tertiary_nav_links:
       - label: Contact
         url: /about

@@ -134,10 +134,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          They are committed to helping individuals attain practical knowledge
-          through affordable and effective IT training programs.
-        subtitle: >-
+      - subtitle: >-
           Simply the best IT training school specializing in Cloud Engineering,
           DevOps Engineering, Data Analytics, Data Science, Machine Learning,
           Deep Learning, Full Stack Development, Front End Development, and Back

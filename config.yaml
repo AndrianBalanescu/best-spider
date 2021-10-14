@@ -73,7 +73,7 @@ params:
       - label: Linkedin
         url: 'https://www.facebook.com/klouduser'
         style: primary
-        has_icon: false
+        has_icon: true
         icon: arrow-left
         icon_position: right
         new_window: false

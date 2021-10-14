@@ -138,7 +138,7 @@ sections:
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
         subtitle: 'Alyvia Cope, Design at Company'
-        image: images/b4.9a93cc3235-975a2ef9.jpg
+        image: images/avatar.png
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three

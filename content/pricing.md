@@ -58,18 +58,18 @@ sections:
       - title: Kubernetes
         subtitle: For your entire team
         title_align: center
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### Starts 25 February
 
           per month, billed yearly
 
-          * Unlimited calendars
-          * Unlimited task list integrations
-          * Project-based color coding
-          * Scheduled notifications
-          * Task delegation
+          *   Unlimited calendars
+          *   Unlimited task list integrations
+          *   Project-based color coding
+          *   Scheduled notifications
+          *   Task delegation
         content_align: left
         actions:
           - label: Start with Business

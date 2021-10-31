@@ -1,4 +1,4 @@
-# ✨ best-spider ✨
+# ✨ bester ✨
 
 <img src="https://themes.stackbit.com/images/app-demo-1024x768.png" width="600">
 
